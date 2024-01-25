@@ -1,4 +1,4 @@
-Encoding and Decoding Text
+Project: Encoding and Decoding Text
 
 Step 1: import tkinter module
 Step 2: import other necessary modules
